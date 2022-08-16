@@ -1,0 +1,15 @@
+/*
+ Theme Name:   CHAHNRS News Child
+ Description:  WSU Web Design System child theme for CAHNRS News    
+ Author:       CAHNRS Communications
+ Author URI:   https://cahnrs.wsu.edu/communications/
+ Template:     wsuwp-theme-wds
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  wsuwp-news-child
+*/
+
+label[for="archiveSearch"] {
+    flex-grow: inherit;
+}
