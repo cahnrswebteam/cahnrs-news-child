@@ -10,6 +10,6 @@
  Text Domain:  wsuwp-news-child
 */
 
-label[for="archiveSearch"] {
+.search-form label[for="archiveSearch"] {
     flex-grow: inherit;
 }
