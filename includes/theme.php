@@ -6,7 +6,7 @@ class WSUNewsTheme {
 
 		require_once __DIR__ . '/post-status.php';
         require_once __DIR__ . '/scripts.php';
-
+        require_once __DIR__ . '/archive-cron.php';
 	}
 
 }
